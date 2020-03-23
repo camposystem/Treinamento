@@ -1,0 +1,11 @@
+C:\camposystem\treinamento\c#\inicializadorobjeto\inicializadorobjeto\bin\Debug\netcoreapp2.1\inicializadorobjeto.deps.json
+C:\camposystem\treinamento\c#\inicializadorobjeto\inicializadorobjeto\bin\Debug\netcoreapp2.1\inicializadorobjeto.runtimeconfig.json
+C:\camposystem\treinamento\c#\inicializadorobjeto\inicializadorobjeto\bin\Debug\netcoreapp2.1\inicializadorobjeto.runtimeconfig.dev.json
+C:\camposystem\treinamento\c#\inicializadorobjeto\inicializadorobjeto\bin\Debug\netcoreapp2.1\inicializadorobjeto.dll
+C:\camposystem\treinamento\c#\inicializadorobjeto\inicializadorobjeto\bin\Debug\netcoreapp2.1\inicializadorobjeto.pdb
+C:\camposystem\treinamento\c#\inicializadorobjeto\inicializadorobjeto\obj\Debug\netcoreapp2.1\inicializadorobjeto.csprojAssemblyReference.cache
+C:\camposystem\treinamento\c#\inicializadorobjeto\inicializadorobjeto\obj\Debug\netcoreapp2.1\inicializadorobjeto.csproj.CoreCompileInputs.cache
+C:\camposystem\treinamento\c#\inicializadorobjeto\inicializadorobjeto\obj\Debug\netcoreapp2.1\inicializadorobjeto.AssemblyInfoInputs.cache
+C:\camposystem\treinamento\c#\inicializadorobjeto\inicializadorobjeto\obj\Debug\netcoreapp2.1\inicializadorobjeto.AssemblyInfo.cs
+C:\camposystem\treinamento\c#\inicializadorobjeto\inicializadorobjeto\obj\Debug\netcoreapp2.1\inicializadorobjeto.dll
+C:\camposystem\treinamento\c#\inicializadorobjeto\inicializadorobjeto\obj\Debug\netcoreapp2.1\inicializadorobjeto.pdb
